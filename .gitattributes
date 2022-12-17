@@ -1,4 +1,0 @@
-*.tsx linguist-detectable=true
-*.typescript linguist-detectable=true
-*.GraphQL linguist-detectable=true 
-*.js linguist-detectable=true
